@@ -1,9 +1,9 @@
-// diplayBlock for FancyPart
+// diplayBlock for FancyPart :
 document.getElementById("fancy").style.display = "none";
 
 
 
-// searchbox result
+// searchbox result :
 const searchButton = document.getElementById('search-button');
 searchButton.addEventListener('click', function(){
     
